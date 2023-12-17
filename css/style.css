@@ -1,0 +1,5 @@
+.Quote{
+    background-image:linear-gradient(rgba(21, 20, 20, 0.6), rgba(21, 20, 20, 0.689)), url(../img/bg.jpg);
+    width: 100%;
+    min-height: 100vh;
+}
